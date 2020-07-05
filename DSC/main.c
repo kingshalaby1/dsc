@@ -6,10 +6,13 @@
 //  Copyright © 2020 ahmed shalaby. All rights reserved.
 //
 
-#include <stdio.h>
+#include "static_array.h"
+
+
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
-    return 0;
+    
+    return test_array();
 }
+
